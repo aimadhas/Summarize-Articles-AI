@@ -1,4 +1,6 @@
 # Summarize-Articles-AI
+![Capture d’écran 2023-07-20 134038](https://github.com/aimadhas/Summarize-Articles-AI/assets/96472794/957b1460-b032-4370-af61-1fd69b594161)
+
 ## Introduction
 
 This is a web application that utilizes AI to provide users with summarized articles from any website in four paragraphs.
