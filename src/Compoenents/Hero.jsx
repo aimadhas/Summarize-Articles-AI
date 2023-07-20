@@ -9,7 +9,7 @@ export default function Hero() {
         </button>
         </nav>
         <h1 className='head_text'>Summarize Articles with <br /> <span className='orange_gradient'>Sumz-AI</span></h1>
-        <h2 className='desc'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum debitis quaerat animi veritatis consequuntur, dolorum, reiciendis perferendis recusandae deserunt totam cupiditate ducimus consequatur, repellendus natus. Adipisci ab tenetur fugiat eveniet?</h2>
+        <h2 className='desc'>The Summarize Articles AI is an innovative web application that leverages the power of Artificial Intelligence (AI) to provide users with concise and accurate summaries of articles from any website.</h2>
     </header>
   )
 }
